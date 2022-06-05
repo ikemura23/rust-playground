@@ -26,3 +26,15 @@ cargo 1.61.0 (a028ae42f 2022-04-29)
 ## IDE
 IntelliJで開発するならRust Pluginがある
 https://plugins.jetbrains.com/plugin/8182-rust
+
+## 入門参考リンク
+
+The Rust Programming Language 日本語版  
+https://doc.rust-jp.rs/book-ja/
+
+## 用語集
+
+- Cargo（カーゴ）
+  - ビルドツール 兼 依存関係管理ツール
+- Rustfmt
+  - コーディングスタイル
